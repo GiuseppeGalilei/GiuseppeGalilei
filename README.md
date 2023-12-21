@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Data Science and Enginnering student from Italy.
+
+[Here](giuseppegalilei.com) you can read more about me, projects I do and ideas I share.
 
 <!--
 **GiuseppeGalilei/GiuseppeGalilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
