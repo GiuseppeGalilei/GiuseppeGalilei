@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data Science and Enginnering student from Italy.
+I'm a Data Science and Engineering student from Italy.
 
 [Here](https://giuseppegalilei.com) you can read more about me, projects I do and ideas I share.
 
