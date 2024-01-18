@@ -4,6 +4,7 @@ I'm a Data Science and Engineering student from Italy.
 Visit my [website](https://giuseppegalilei.com) to find out more about me, projects I do and ideas I share.
 
 ### Latest Posts
+- [How I built my personal website](https://giuseppegalilei.com/blog/how_to_website/)
 - [D2l.ai Notes](https://giuseppegalilei.com/blog/d2l_notes/)
 - [Remote Management, But Enjoyable](https://giuseppegalilei.com/blog/remote/)
 
