@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Data Science and Engineering student from Italy.
+I'm Giuseppe! AI Software Engineer and MSc student in Data Science and Engineering.
 
 Visit my [website](https://giuseppegalilei.com) to find out more about me, projects I do and ideas I share.
 
