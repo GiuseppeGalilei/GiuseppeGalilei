@@ -1,4 +1,4 @@
-<img align="right" width="170" src="https://raw.githubusercontent.com/GiuseppeGalilei/tech-website/3bffed7db08217fd9fb8e6d23e14603722209124/assets/brand/studio-v1/platforms-v1/shared/profile-creative-split.png" alt="Giuseppe: half photographic portrait, half botanical illustration">
+<img align="right" width="170" src="https://avatars.githubusercontent.com/u/44207906?v=4" alt="Giuseppe Galilei">
 
 # Make curiosity tangible.
 
