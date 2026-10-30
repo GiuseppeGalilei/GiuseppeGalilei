@@ -1,6 +1,6 @@
 <img align="right" width="170" src="https://avatars.githubusercontent.com/u/44207906?v=4" alt="Giuseppe Galilei">
 
-# Make curiosity tangible.
+### Make curiosity tangible
 
 **Giuseppe Galilei · Creative technologist & AI engineer**
 
